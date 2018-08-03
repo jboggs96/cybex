@@ -53,6 +53,7 @@ html, body{
 .jumbotron{
     padding: .5em;
     border-radius:0;
+    background-color: lightgrey;
 }
 
 .padding{
@@ -83,6 +84,13 @@ html, body{
     color:grey;
     font-size: 5em;
 }
+.my-4{
+  border-top: 2px solid #b4b4b4;
+    width: 95%;
+    margin-top: 1rem;
+    margin-bottom: 2rem;
+}
+
 
 
 /*---Media Queries --*/
